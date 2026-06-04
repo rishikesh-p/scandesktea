@@ -1,8 +1,8 @@
 export const restaurant = {
-  name: "TEALOGY", // TODO: Update this
-  description: "Delicious Food & Beverages", // TODO: Update this
-  logo: "/images/logo.png", // TODO: Add new client's logo
-  heroImage: "/images/hero.png", // TODO: Add new client's hero image
+  name: "TEALOGY", 
+  description: "Yaar Mera Kulhad", 
+  logo: "/images/logo.png", 
+  heroImage: "/images/hero.png", 
 };
 
 export const categories = [
