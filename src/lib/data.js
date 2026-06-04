@@ -1,8 +1,8 @@
 export const restaurant = {
-  name: "New Cafe Name", // TODO: Update this
-  description: "Delicious Fast Food & Beverages", // TODO: Update this
+  name: "TEALOGY", // TODO: Update this
+  description: "Delicious Food & Beverages", // TODO: Update this
   logo: "/images/logo.png", // TODO: Add new client's logo
-  heroImage: "/images/hero.webp", // TODO: Add new client's hero image
+  heroImage: "/images/hero.png", // TODO: Add new client's hero image
 };
 
 export const categories = [
@@ -21,7 +21,7 @@ export const items = [
   { id: "sd4", categoryId: "sandwich", name: "Veg Mayo Sandwich", description: "", price: 109, image: "/images/Sandwich/veg_mayo_sandwich.jpg", tags: [] },
   { id: "sd5", categoryId: "sandwich", name: "Vegetable Club Sandwich", description: "", price: 119, image: "/images/Sandwich/vegetable_club_sandwich.jpg", tags: [] },
   { id: "sd6", categoryId: "sandwich", name: "Paneer Taka Tak Sandwich", description: "", price: 129, image: "/images/Sandwich/paneer_taka_tak_sandwich.jpg", tags: [] },
-  { id: "sd7", categoryId: "sandwich", name: "Cheese Corn Sandwich", description: "", price: 129, image: "/images/Sandwich/cheese_corn_sandwich.jpg", tags: [] },
+  
 
   // ─── PASTA ─────────────────────────────────────────────────────────
   { id: "ps1", categoryId: "pasta", name: "White Sauce Pasta", description: "", price: 169, image: "/images/Pasta/white_sauce_pasta.jpg", tags: [] },
